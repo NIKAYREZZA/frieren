@@ -1,0 +1,26 @@
+{
+  "name": "@nikayrezza/frieren-age",
+  "version": "1.4.1",
+  "description": "are you know how old frieren now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIKAYREZZA/frieren-age.git"
+  },
+  "keywords": [
+    "frieren-age"
+  ],
+  "author": "NIKAYREZZA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NIKAYREZZA/frieren-age/issues"
+  },
+  "homepage": "https://github.com/NIKAYREZZA/frieren-age#readme",
+  "dependencies": {
+    "frieren-age": "^1.4.1"
+  },
+  "devDependencies": {}
+}
